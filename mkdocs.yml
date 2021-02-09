@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Asolear Documentacion
+theme:
+  palette:
+    primary: black
+  # favicon: images/favicon.ico
+  # logo: images/favicon.ico
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.expand
+    - navigation.tabs.sticky
+    - navigation.sections
+
+  language: es
+  name: material
